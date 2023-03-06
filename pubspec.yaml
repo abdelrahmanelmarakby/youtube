@@ -1,0 +1,36 @@
+name: youtube_alazhar
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  fluttertoast: ^8.1.2
+  animate_do: ^3.0.2
+  iconsax: ^0.0.8
+  dio: ^5.0.0
+  bot_toast: ^4.0.3
+  internet_connection_checker: ^1.0.0+1
+  connectivity_plus: ^3.0.3
+  get_storage: ^2.0.3
+  restart_app: ^1.1.2
+  freezed_annotation: ^2.2.0
+  pretty_dio_logger: ^1.3.1
+  flutter_localizations:
+    sdk: flutter
+  responsive_framework: ^0.2.0
+  mrx_charts: ^0.1.3
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
